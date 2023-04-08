@@ -2,7 +2,7 @@
 <h3 align="center">A passionate fullstack developer from Dominican Republic 🇩🇴</h3>
 <h3 align="left">📙About me:</h3>
 
--  🔭 I’m currently working on **Java (Spring Boot), ReactJS, MYSQL.**
+-  🔭 I’m currently working on **SML as Associate Programmer**
 
 - 🌱 I’m currently learning **ReactJS, AWS.**
 
