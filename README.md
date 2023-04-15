@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John</h1>
-<h3 align="center">A passionate fullstack developer from Dominican Republic 🇩🇴</h3>
+<h3 align="center">A passionate fullstack developer from Dominican Republic 🇩🇴,  I am a technology lover who is constantly looking for information, I really like sports and spending time with my friends.</h3>
 <h3 align="left">📙About me:</h3>
 
 -  🔭 I’m currently working on **SML as Associate Programmer**
