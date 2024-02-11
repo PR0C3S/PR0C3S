@@ -4,7 +4,7 @@
 
 -  🔭 I’m currently working on **SML as Associate Programmer**
 
-- 🌱 I’m currently learning **ReactJS, AWS.**
+- 🌱 I’m currently learning **ReactJS, NodeJS.**
 
 - 📫 How to reach me **johnhpena@gmail.com**
 
